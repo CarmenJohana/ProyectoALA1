@@ -21,8 +21,8 @@ Los siguientes dos archivos son necesarios para poder correr el código:
 
     test.csv : Dataset para predicción (se toma una muestra aleatoria).
 
-Para descargarlos, vaya a kaggle, regístrese o ingrese a su cuente y descargue los archivos que aparecen aquí: https://www.kaggle.com/competitions/microsoft-malware-prediction/data.
-Para eso, en la parte final de la página, de click en Download All.
+Para descargarlos, vaya a kaggle, regístrese o ingrese a su cuente. Los archivos que nos interesa son los que aparecen aquí: https://www.kaggle.com/competitions/microsoft-malware-prediction/data.
+Sitúese en la parte final de dicha página y de click en Download All.
 
 Uso
 
