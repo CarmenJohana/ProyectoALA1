@@ -1,4 +1,5 @@
-Antes de correr el notebook del proyecto, asegúrese de subir los siguientes dos archivos en el entorno de Colab:
+Antes de correr el notebook del proyecto, asegúrese de subir los 
+siguientes dos archivos en el entorno de Colab:
 
     dtypes_dict
     	
@@ -23,3 +24,6 @@ https://colab.research.google.com/drive/1GIanCQaZ020wz0UBunpm3bwwF9hJAkio?usp=sh
 
 Enlace al notebook donde se hace testeo previo de los algoritmos USPEC y USNEC:
 https://colab.research.google.com/drive/1Loytre4l9h1PxZjjbsU48fmZ1EgoYhCB?usp=sharing
+
+Nota: Se creó la sección correspondiente a esta entrega dentro
+del informe presente en la carpeta del entregable tres
